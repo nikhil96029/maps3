@@ -4,19 +4,11 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Delhi"
+        "name": "Bangalore"
       },
       "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [77.068899, 28.595016],
-            [77.072722, 28.594617],
-            [77.074197, 28.597906],
-            [77.070261, 28.598305],
-            [77.068899, 28.595016]
-          ]
-        ]
+        "type": "Point",
+        "coordinates": [77.5946, 12.9716]
       }
     },
     {
@@ -25,18 +17,30 @@
         "name": "Noida"
       },
       "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [77.323001, 28.535517],
-            [77.328846, 28.534294],
-            [77.330052, 28.537978],
-            [77.324391, 28.539244],
-            [77.323001, 28.535517]
-             [28.58824157714844, 77.0506228528929]
-          ]
-        ]
+        "type": "Point",
+        "coordinates": [77.3910, 28.5355]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Indore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.8577, 22.7196]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.05062177032232, 28.58807666096443]
       }
     }
+    // Add more cities as needed
   ]
 }
