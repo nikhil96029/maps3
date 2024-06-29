@@ -35,11 +35,9 @@
       "type": "Feature",
       "properties": {
         "name": "Delhi"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [77.05062177032232, 28.58807666096443]
       }
+  
+      
     }
     // Add more cities as needed
   ]
